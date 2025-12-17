@@ -1,55 +1,49 @@
 ﻿[//]: # (Author: Ashraf Morningstar | GitHub: https://github.com/AshrafMorningstar)
+
+<div align="center">
+
 # Accessible Quiz Builder
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/accessible-quiz-builder)
-
-ðŸš€ WCAG-compliant quiz builder prioritization accessibility.
-
-## ðŸ” Why this project exists
+**Education for everyone. No exceptions.**
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/accessible-quiz-builder)
-A production-grade implementation demonstrating modern web engineering practices, focusing on performance, accessibility, and scalability.
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## âœ¨ Features
+</div>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/accessible-quiz-builder)
-- ðŸš€ Production-ready architecture
-- ðŸŽ¨ Premium UI/UX design system
-- â™¿ WCAG AA Accessible
-- ðŸ“± Fully Responsive
-- âš¡ Optimized Performance
+## ðŸ“– Overview
+A quiz platform engineered from the ground up for compatibility with Screen Readers (NVDA, VoiceOver) and Keyboard Navigation. It proves that complex interactive apps can be fully inclusive.
 
-## ðŸ§  Architecture
+## âœ¨ Key Features
+- **ARIA Live Regions:** Real-time feedback for screen readers.
+- **Focus Management:** Logical tab flow.
+- **High Contrast:** Meets WCAG AAA contrast ratios.
+- **Keyboard Only:** Full functionality without a mouse.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/accessible-quiz-builder)
-Built with clean separation of concerns and modern design patterns.
+## ðŸ› ï¸ Technical Stack
+**React, Radix UI Primitives, Jest-Axe**
 
-## ðŸš€ Live Demo
+## ðŸš€ Getting Started
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/accessible-quiz-builder)
-[Deployment Link Placeholder]
+### Prerequisites
+- Node.js 18+
+- npm or yarn
 
-## ðŸ“¦ Installation
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/accessible-quiz-builder)
-```bash
+### Installation
+`ash
+git clone https://github.com/ashraf-morningstar-labs/accessible-quiz-builder.git
+cd accessible-quiz-builder
 npm install
 npm run dev
-```
+`
 
-## ðŸ›  Tech Stack
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/accessible-quiz-builder)
-Semantic HTML â€¢ ARIA â€¢ React
-
-## ðŸ“ˆ SEO Keywords
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/accessible-quiz-builder)
-accessible web app, wcag quiz, a11y project
+## ðŸ¤ Contribution
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## ðŸ“„ License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/accessible-quiz-builder)
-MIT
-
-
+---
+<div align="center">
+  <b>Built with â¤ï¸ by <a href="https://github.com/AshrafMorningstar">Ashraf Morningstar</a></b>
+</div>
